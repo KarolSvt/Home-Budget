@@ -56,6 +56,8 @@ input{
     cursor: pointer;
     width: 150px;
     height: 72px;
+    background-color: white;
+    color: black;
 }
 .balance{
     margin: 15px 0 ;
